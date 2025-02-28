@@ -1,2 +1,2 @@
 # MLS
-My personal ML study process
+My personal ML studying notebooks
